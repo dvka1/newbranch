@@ -1,4 +1,8 @@
 apple
 bat-user1
 cat-user1
+<<<<<<< HEAD
 dog-user2
+=======
+dog-user1
+>>>>>>> 7199d76175e0a313d82052e396f7499b3944ef0f
